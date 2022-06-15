@@ -10,4 +10,4 @@
  
  **Our Hypothesis:**<br />
  We belive that we can get some significant accuracy when predicting the participant's gender but not more than 70% accuracy.<br />
- We also think that questions from the Agreeablness trait will be the most relevant.
+ We also think that questions from the Agreeableness trait will be the most relevant.
